@@ -2,7 +2,7 @@
 
 **01 다음 SOL 문장 중 문법적으로 옳은 것은?**
 
-1. SELECT 이름 FROM 학생 WHERE 학년 IN (1, 2, 3, 4) ;
+1. SELECT 이름 FROM 학생 WHERE 학년 IN (1, 2, 3, 4) ; 
 
 **02 다음 SOL문 중 문법적으로 옳은 것은?**
 
